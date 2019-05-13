@@ -50,4 +50,4 @@ Devise a strategy to determine the value of _f_ such that the number of dropped 
 
 Write out your proposed algorithm in plain English or pseudocode and give the runtime complexity of your solution. -->
 
-<!-- I'm not sure that I understand this question - I'm not understanding what is meant by "dropped is minimized" -->
+I would apply the divide and conquer method to check a certain story and if its too high then I know everything above it would be too high. Keep halving it until I reach the correct story. 
